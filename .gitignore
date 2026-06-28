@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Battleship with Java/*
+!/Battleship with Java/task/
+/Battleship with Java/task/*
+!/Battleship with Java/task/src
+!/Battleship with Java/task/test
